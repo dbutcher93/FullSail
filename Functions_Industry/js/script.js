@@ -1,1 +1,5 @@
-console.log("-----Functions: Industry")
+console.log("-----Functions: Industry-----")
+
+var totalLines = function(){
+
+}
