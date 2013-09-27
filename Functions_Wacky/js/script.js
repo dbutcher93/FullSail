@@ -1,8 +1,8 @@
 console.log("-----Functions: Wacky-----")
 
 var skateboardBails = function(){
-	var skaters = 3;
-	var bailsperHour = 15;
+	var skaters = 5;
+	var bailsperHour = 10;
 
 	var totalBails = skaters * bailsperHour;
 
