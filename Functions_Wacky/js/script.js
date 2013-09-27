@@ -6,5 +6,5 @@ var skateboardBails = function(){
 
 	var totalBails = skaters * bailsperHour;
 
-
+	console.log(totalBails)
 }
